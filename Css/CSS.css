@@ -18,6 +18,12 @@ main {
     padding: 10px;
     text-align: center;
 }
+.footer {
+      background-color: #ffff
+} 
+
+
+
 
 .card-main img {
     max-width: 100%;
